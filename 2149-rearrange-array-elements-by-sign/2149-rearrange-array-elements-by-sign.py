@@ -2,19 +2,17 @@ class Solution(object):
     def rearrangeArray(self, nums):
         n = len(nums)
 
-        pos = []
-        neg = []
+        ans = [0] * n
+
+        pos = 0
+        neg = 1
 
         for i in range(n):
             if nums[i] > 0:
-                pos.append(nums[i])
+                ans[pos] = nums[i]
+                pos += 2
             else:
-                neg.append(nums[i])
-
-        ans = []
-
-        for i in range(len(pos)):
-            ans.append(pos[i])
-            ans.append(neg[i])
+                ans[neg] = nums[i]
+                neg += 2
 
         return ans
