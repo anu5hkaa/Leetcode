@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anu5hkaa/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/anu5hkaa/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/anu5hkaa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anu5hkaa/Leetcode/tree/master/0169-majority-element) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anu5hkaa/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/anu5hkaa/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anu5hkaa/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/anu5hkaa/Leetcode/tree/master/0242-valid-anagram) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/anu5hkaa/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anu5hkaa/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
