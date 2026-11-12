@@ -1,0 +1,12 @@
+class Solution(object):
+    def minimumLength(self, s):
+        left=0
+        right=len(s)-1
+        while left<right and s[left]==s[right]:
+            ch=s[left]
+
+            while left<= right and s[left]==ch:
+                left+=1
+            while left<=right and s[right]==ch:
+                right-=1
+        return right-left +1       
